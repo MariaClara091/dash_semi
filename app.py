@@ -534,7 +534,7 @@ elif seccion == "Objetivo 3: Geografía & Tiempo":
 # ─────────────────────────────────────────────────────────────
 # MODELOS ML
 # ─────────────────────────────────────────────────────────────
-elif seccion == "Modelos ML":
+elif seccion == "Modelos":
     st.markdown('<div class="main-title"> Modelos de Machine Learning</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-title">Comparación de 9 modelos bajo desbalanceo severo (95/5)</div>', unsafe_allow_html=True)
 
